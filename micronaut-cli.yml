@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: example.micronaut
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle
+features: [app-name, gradle, http-client, junit, kotlin, kotlin-application, logback, netty-server, openapi, readme, shade, yaml]
